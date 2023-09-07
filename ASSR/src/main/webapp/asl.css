@@ -29,7 +29,7 @@ body {
 }
 
 .login-box .user-box {
-  position: relative;
+  position: absolute;
 }
 
 .login-box .user-box input {
